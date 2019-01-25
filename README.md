@@ -10,7 +10,7 @@ Vous devez installer [docker]  sur votre machine.
 
 Vous pouvez obtenir ce modèle directement ici:
 
-    git clone
+    git clone https://github.com/mohamedDev/docker-symfony4.git
 
 ## Changelog
 
